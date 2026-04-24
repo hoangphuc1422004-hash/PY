@@ -1,7 +1,4 @@
-# Bài 7: Thay thế chuỗi "not...poor" bằng "good"
-# Viết chương trình cho người dùng nhập 1 chuỗi (S)
-# Nếu từ 'poor' đi sau từ 'not' thì thay đoạn từ 'not' đến 'poor' thành 'good'
-# Các trường hợp khác sẽ giữ nguyên chuỗi
+
 
 import re
 

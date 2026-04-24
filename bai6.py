@@ -1,6 +1,4 @@
-# Bài 6: Đếm số lần xuất hiện của một từ trong chuỗi
-# Viết chương trình cho người dùng nhập 1 chuỗi (S) và 1 từ (word)
-# Đếm xem trong S có bao nhiều từ word
+
 
 s = '''Chiều chiều trước bên Vân Lâu
 Ai ngồi, ai cầu, ai sầu, ai thầm
