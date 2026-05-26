@@ -1,4 +1,4 @@
-import argparse
+python BAI18.py --start 1 --end 100000 --type so_phong_phuimport argparse
 import math
 
 # Bài 18: Các hàm ẩn danh kiểm tra các loại số
